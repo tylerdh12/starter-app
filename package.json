@@ -43,6 +43,6 @@
     "prettier": "^1.19.1",
     "react-scripts": "^3.1.1",
     "react-test-renderer": "^16.8.6",
-    "@blockstack/prettier-config": "0.0.4"
+    "@blockstack/prettier-config": "0.0.6"
   }
 }
